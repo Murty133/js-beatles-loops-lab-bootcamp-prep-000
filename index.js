@@ -14,5 +14,5 @@ function johnLennonFacts(facts) {
     i ++
     console.log(i)
   }
-  return excFactsacts
+  return excFacts
 }
